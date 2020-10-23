@@ -31,7 +31,7 @@ Generalization Example by demonstrating Gum ball Machine
   <li>System is updated by relevant print statements as per coins inserted and also keeps count of gumballs</li><br>
   </ul>
 
-
+<h4>output</h4>
 
 ![Screenshot](output.png)
 
