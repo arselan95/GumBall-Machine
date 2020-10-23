@@ -21,7 +21,7 @@ Generalization Example by demonstrating Gum ball Machine
 
 <h2>Output of the application</h2>
 
-<h4>input data</h4>
+<h3>input data</h3><br>
 
 ![Screenshot](input.png)
 
@@ -31,7 +31,7 @@ Generalization Example by demonstrating Gum ball Machine
   <li>System is updated by relevant print statements as per coins inserted and also keeps count of gumballs</li><br>
   </ul>
 
-<h4>output</h4>
+<h3>output</h3><br>
 
 ![Screenshot](output.png)
 
