@@ -19,7 +19,19 @@ Generalization Example by demonstrating Gum ball Machine
   <li> Call the super constructor of all the classes while creating the instances </li><br>
   <li> Run the app </li><br>
 
-<h2>Output</h2>
+<h2>Output of the application</h2>
+
+<h4>input data</h4>
+
+![Screenshot](input.png)
+
+<ul>
+  <li>All three machine have 7 gumballs</li><br>
+  <li>insertmoney()shows the amount of money inserted</li><br>
+  <li>System is updated by relevant print statements as per coins inserted and also keeps count of gumballs</li><br>
+  </ul>
+
+
 
 ![Screenshot](output.png)
 
